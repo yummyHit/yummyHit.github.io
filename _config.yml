@@ -37,7 +37,7 @@ comments:
   # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   provider               : disqus 
   disqus:
-    shortname            : https-yummyhit-github-io
+    shortname            : yummyhit
 #  discourse:
 #    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
 #  facebook:
