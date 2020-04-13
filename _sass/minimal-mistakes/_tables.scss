@@ -3,7 +3,6 @@
    ========================================================================== */
 
 table {
-  display: block;
   margin-bottom: 1em;
   width: 100%;
   font-family: $global-font-family;
@@ -24,7 +23,6 @@ thead {
 th {
   padding: 0.5em;
   font-weight: bold;
-  text-align: left;
 }
 
 td {
@@ -37,4 +35,3 @@ td,
 th {
   vertical-align: middle;
 }
-
