@@ -4,3 +4,19 @@ main:
     url: "/about/" # 클릭시 이동할 URL
   - title: "Category"
     url: "/categories/"
+
+docs:
+  - title: "dev. notes"
+    children:
+      - title: "# yummyHitOS"
+        url: "/categories/#osdev"
+      - title: "# yummyKit"
+        url: "/categories/#tooldev"
+      - title: "# yummyCTF"
+        url: "/categories/#openctf"
+      - title: "# yummyWiki"
+        url: "/categories/#wiki"
+  - title: "about. me"
+    children:
+      - title: "# yummyHit"
+        url: "/about/"
